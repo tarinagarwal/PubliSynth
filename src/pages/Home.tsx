@@ -155,7 +155,7 @@ export default function RootLayout({
       <footer className="bg-white shadow-sm mt-auto">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
           <p className="text-sm text-gray-500">
-            © 2023 WaterForecast. All rights reserved.
+            © 2024 WaterForecast. All rights reserved.
           </p>
           <div className="flex space-x-4">
             <Link to="#" className="text-sm text-gray-500 hover:text-blue-600">
